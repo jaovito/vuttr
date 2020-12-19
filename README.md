@@ -7,6 +7,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJs](https://pt-br.reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Axios](https://github.com/axios/axios)
+- [Styled-components](https://github.com/styled-components/styled-components)
 
 ## Backend
 O [backend](https://gitlab.com/bossabox/challenge-fake-api/tree/master) foi fornecido pela bossabox
