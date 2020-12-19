@@ -28,7 +28,7 @@ $ npm install
 $ npm run start
 ```
 
-## Testes automátizados
+## Testes automatizados
 Foi utilizado o próprio [Jest](https://jestjs.io) que vem instalado ao utilizar o [create-react-app](https://create-react-app.dev/docs/getting-started).
 Os testes tem como principal função testar a visibilidade do modal e sua função de post, para rodar os testes basta executar o segunte comando:
 
